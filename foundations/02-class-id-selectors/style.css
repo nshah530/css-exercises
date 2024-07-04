@@ -1,0 +1,20 @@
+.basic,
+.cooler {
+    background-color: rgb(213, 115, 115);
+    font-family: Verdana, "DejaVu Sans", sans-serif
+}
+
+.cooler {
+    font-size: 24px;
+}
+
+#blue {
+    color: rgb(60, 60, 200);
+    font-size: 36px;
+}
+
+#green {
+    background-color: rgb(115, 215, 115);
+    font-size: 24px;
+    font-weight: bold;
+}
